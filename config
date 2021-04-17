@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = noirtree@172.26.45.42:~/test/hello.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
